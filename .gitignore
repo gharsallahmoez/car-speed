@@ -1,2 +1,4 @@
 __init__.py
 .pytest_cache
+.idea
+.DS_Store
