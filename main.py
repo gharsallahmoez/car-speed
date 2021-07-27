@@ -9,4 +9,4 @@ if __name__ == '__main__':
     for key, value in data.items():
         speed = calcul_speed(value)
         if speed >= 5:
-            print(key)
+            print('ID : ',key, ' Speed : ',speed, 'm/s')
